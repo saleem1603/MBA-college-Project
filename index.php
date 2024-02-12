@@ -1,0 +1,10 @@
+<?php include 'header.php';?>
+<?php include 'banner.php';?>
+<?php include 'conf.php';?>
+<?php include 'about.php';?>
+<?php include 'conference.php';?>
+<?php include 'guide.php';?>
+<?php include 'fees.php';?>
+<?php include 'schedule.php';?>
+<?php include 'contact.php';?>
+<?php include 'footer.php';?>
